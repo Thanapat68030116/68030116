@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open wabsite_1.Html",
+            "file": "c:\\Users\\Thana\\OneDrive\\เอกสาร\\68030116\\wabsite_1.Html"
+        }
+    ]
+}
